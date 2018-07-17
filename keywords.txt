@@ -1,18 +1,16 @@
-/*
- *Single digit seven segment common cathode display driver
- *written by James Jackson.  06/24/16
- * ----------------------------------------------------------------------------
- * "BEER-WARE LICENSE" (Revision 973):
- * <I> wrote this file.  As long as you retain this notice you
- * can do whatever you want with this stuff. If we meet some day, and you think
- * this stuff is worth it, you can buy me a beer in return.   James M. Jackson
- * ----------------------------------------------------------------------------
- */
+#Single digit seven segment common cathode display driver
+#written by James Jackson.  06/24/16
+# ----------------------------------------------------------------------------
+# "BEER-WARE LICENSE" (Revision 973):
+# <I> wrote this file.  As long as you retain this notice you
+# can do whatever you want with this stuff. If we meet some day, and you think
+# this stuff is worth it, you can buy me a beer in return.   James M. Jackson
+# ----------------------------------------------------------------------------
  
- // Constructor
+ # Constructor
  
  SingleSeven	KEYWORD1
  
- // Function
+ # Function
  singleSeven	KEYWORD2
  writeSeg		KEYWORD2
